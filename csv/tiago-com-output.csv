@@ -1,0 +1,2 @@
+timestamp,uptimeInS,bootCount,lastResetCause,powerAmplifierTemperature,quartzTemperature,isTxOn,lastSyncRssi,averageSyncRssi,lastPacketRssi,averagePacketRssi,environmentRssi,txPacketCounter,txByteCounter,rxPacketCounter,rxByteCounter,badCrcCounter,beaconTxCounter,gsWdtTimeLeftInS,
+1636043884,11579,440,201326592,27,27,1,32768,32768,32768,32768,-119,1108,103090,0,0,0,368,36391,

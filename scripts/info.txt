@@ -1,0 +1,7 @@
+- The CDH output has multiple temperatures to read.
+    -- solarPanelTemp4 is working
+    -- solarPanelTemp5 is working
+- The COM output does has the following temperatures:
+    -- powerAmplifierTemperature
+    -- quartzTemperature
+- The POW does seem to have 13 different temps but don't from where do they come from.
